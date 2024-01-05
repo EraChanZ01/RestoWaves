@@ -20,7 +20,7 @@
 
 <h3>Створення Бази даних</h3>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
-  pre>npm i</pre>
+  <pre>npm i</pre>
   <pre>npx sequelize-cli db:create</pre>
   <pre>npx sequelize-cli db:migrate</pre>
   <pre>npx sequelize-cli db:seed:all</pre>
